@@ -1,0 +1,29 @@
+.nav-container {
+  background-color: #304766;
+}
+.nav-logo {
+  font-family: 'Caveat';
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 35px;
+}
+.nav-card {
+  height: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.Home-nav {
+  color: #ffffff;
+  text-decoration: none;
+  margin-right: 20px;
+}
+.logout-btn {
+  border: none;
+  background-color: #ffffff;
+  padding: 8px 13px;
+  color: #304766;
+  border-radius: 10px;
+  font-weight: bold;
+}

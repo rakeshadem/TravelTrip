@@ -1,0 +1,201 @@
+.mytrip-whole-container {
+  height: 60vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+li {
+  list-style-type: none;
+}
+.list-item-container {
+  display: flex;
+}
+.list-item-number {
+  border: 1px solid #cbd5e1;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+.active-list-item-number {
+  background-color: #2563eb;
+  color: #fff;
+}
+.active-text-color {
+  color: #2563eb;
+  font-family: 'roboto';
+}
+.mytrip-details-container {
+  background-color: #304766;
+  border-radius: 0px 10px 10px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  margin-left: 20px;
+  width: 500px;
+  font-family: 'roboto';
+}
+.mytrip-details-container h1 {
+  font-size: 25px;
+  color: #fff;
+  margin: 0px;
+}
+.mytrip-details-description {
+  color: #fff;
+}
+
+.detailsform-card {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+}
+.input-el {
+  border-radius: 5px;
+  height: 30px;
+  width: 250px;
+  margin-top: 10px;
+  border-color: #cbd5e1;
+}
+.next-button {
+  border-radius: 7px;
+  padding: 6px 10px;
+  background-color: #2563eb;
+  border: none;
+  color: #ffffff;
+  cursor: pointer;
+}
+.button-container {
+  text-align: center;
+}
+
+.error-msg {
+  color: red;
+  font-size: 13px;
+}
+
+.previous-button {
+  border-radius: 7px;
+  padding: 6px 10px;
+  background-color: #dbeafe;
+  border: none;
+  color: #2563eb;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.guest-page-para {
+  padding: 0px;
+  font-family: 'roboto';
+  font-size: 14px;
+}
+.Age-minus-plus {
+  border: 1px solid #cbd5e1;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  align-self: center;
+}
+
+.guest-container-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 300px;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.guest-container-age-card {
+  display: flex;
+
+  align-self: center;
+}
+
+.count-members {
+  align-self: center;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.travel-assistance-select {
+  border-color: #cbd5e1;
+  height: 30px;
+  width: 250px;
+  border-radius: 6px;
+  margin-top: 5px;
+}
+.confirmation-eachDetails {
+  display: flex;
+}
+.confirmation-eachDetails-heading {
+  width: 100px;
+}
+.awesome-tick {
+  height: 80px;
+  width: 80px;
+}
+.completed-tick-icon {
+  height: 35px;
+  width: 35px;
+  margin-right: 13px;
+  margin-top: 10px;
+}
+.myTrip-whole-container {
+  height: 60vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+.myTrip-details-container {
+  background-color: #304766;
+  border-radius: 0px 10px 10px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  margin-left: 20px;
+  width: 500px;
+  font-family: 'roboto';
+}
+.myTrips-heading {
+  color: #ffffff;
+}
+.myTrip-details-description {
+  color: #ffffff;
+}
+.detailsForm-card {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+}
+.error-msg {
+  color: red;
+  font-size: 13px;
+}
+.date-input {
+  border-radius: 5px;
+  height: 30px;
+  width: 250px;
+  margin-top: 10px;
+  border-color: #cbd5e1;
+}
+.travel-heading {
+  color: #ffffff;
+}
